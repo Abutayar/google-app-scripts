@@ -1,1 +1,4 @@
-# google-app-scripts
+# Google App Scripts
+
+## todo
+- Make them more generic
